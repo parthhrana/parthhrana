@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ## high on wayback urls
 ## a final year CS student with keen interest in CyberSecurity & Web-Development 
 
-Profile Views: <img src="https://komarev.com/ghpvc/?username=parthhrana&label=Profile%20views&color=0e75b6&style=flat" alt="parthhrana" />
-Hits :   [![HitCount](https://hits.dwyl.com/parthhrana/parthhrana.svg?style=flat-square)](http://hits.dwyl.com/parthhrana/parthhrana)
+<p> Profile Views: <img src="https://komarev.com/ghpvc/?username=parthhrana&label=Profile%20views&color=0e75b6&style=flat" alt="parthhrana" /> </p>
+</p> Hits :   [![HitCount](https://hits.dwyl.com/parthhrana/parthhrana.svg?style=flat-square)](http://hits.dwyl.com/parthhrana/parthhrana) </p>
