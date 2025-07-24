@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## high on wayback urls  
 ## a final year CS student with keen interest in CyberSecurity & Web-Development  
+
+## 📚 Blog
+
+- [My Discovery of a Payment Information Leak in a Top Government College](https://dub.sh/gov-college)
+- [My Encounter with an Admin Panel in a Gas Agency Website](https://dub.sh/gas-admin-panel)
+
+Follow on Medium : [![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://medium.com/@parthh_rana)
+
+
+
 
 **Profile Views:**  
 <img src="https://komarev.com/ghpvc/?username=parthhrana&label=Profile%20views&color=0e75b6&style=flat" alt="parthhrana" />
