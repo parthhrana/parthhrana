@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## 📚 Blog
 
 - [My Discovery of a Payment Information Leak in a Top Government College](https://dub.sh/gov-college)
-- [![My Discovery of a Payment Information Leak in a Top Government College](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://dub.sh/gov-college)
 - [My Encounter with an Admin Panel in a Gas Agency Website](https://dub.sh/gas-admin-panel)
 
 Follow on Medium : [![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://medium.com/@parthh_rana)
